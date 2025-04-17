@@ -1,5 +1,5 @@
 
-# Filename: m3raj_ddos_pro.py
+# Filename: m3ra_ddos_pro.py
 
 import requests, threading, random, time
 from colorama import Fore, Style
