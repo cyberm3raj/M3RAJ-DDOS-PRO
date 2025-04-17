@@ -1,5 +1,5 @@
 
-# M3RA DDOS PRO
+# M3RAJ DDOS PRO🔴
 
 **Educational & Ethical DDoS Testing Tool**
 
@@ -16,5 +16,5 @@ python m3ra_ddos_pro.py
 
 Make sure to include a `proxies.txt` file if using proxy mode.
 
-## Disclaimer
-This tool is created for **educational and authorized testing purposes only**. Misuse may be illegal.
+## Disclaimer🔴
+This tool is created for **educational and authorized testing purposes only**. Misuse may be illegal.🔴🤝
