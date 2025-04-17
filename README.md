@@ -1,5 +1,5 @@
 
-# M3RAJ DDOS PRO🔴
+# M3RA DDOS PRO🔴
 
 **Educational & Ethical DDoS Testing Tool**
 
